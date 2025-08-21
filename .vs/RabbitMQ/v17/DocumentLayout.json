@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\extension\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\extension\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\bus\\relatoriosolicitadoeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\bus\\relatoriosolicitadoeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\bus\\ipublishbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\bus\\ipublishbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\services\\relatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\services\\relatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\data\\entities\\solicitacaorelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\data\\entities\\solicitacaorelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\migrations\\20250818182816_rabbitmq-test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\migrations\\20250818182816_rabbitmq-test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\data\\idesigntimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\data\\idesigntimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\controllers\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\controllers\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\controllers\\relatorios\\relatoriosolicitadoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\controllers\\relatorios\\relatoriosolicitadoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\controllers\\relatorios\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\controllers\\relatorios\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\data\\repositories\\relatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\data\\repositories\\relatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|c:\\users\\lucas\\source\\repos\\rabbitmq\\rabbitmq\\rabbitmq\\rabbitmq\\data\\repositories\\irelatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C55CC0-2E75-4C74-A1DE-F99A4ACE1298}|RabbitMQ\\RabbitMQ.csproj|solutionrelative:rabbitmq\\data\\repositories\\irelatoriorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\.gitignore",
+              "RelativeDocumentMoniker": "RabbitMQ\\.gitignore",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\.gitignore",
+              "RelativeToolTip": "RabbitMQ\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-20T19:52:37.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Readme.md",
+              "RelativeDocumentMoniker": "RabbitMQ\\Readme.md",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Readme.md",
+              "RelativeToolTip": "RabbitMQ\\Readme.md",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAswN8CAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-19T16:41:49.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RabbitMQ\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RabbitMQ\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T16:57:57.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SolicitacaoRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\Entities\\SolicitacaoRelatorio.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Data\\Entities\\SolicitacaoRelatorio.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\Entities\\SolicitacaoRelatorio.cs",
+              "RelativeToolTip": "RabbitMQ\\Data\\Entities\\SolicitacaoRelatorio.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:58:02.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelatorioService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Services\\RelatorioService.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Services\\RelatorioService.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Services\\RelatorioService.cs",
+              "RelativeToolTip": "RabbitMQ\\Services\\RelatorioService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAApwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:31:33.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPublishBus.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Bus\\IPublishBus.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Bus\\IPublishBus.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Bus\\IPublishBus.cs",
+              "RelativeToolTip": "RabbitMQ\\Bus\\IPublishBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:09:46.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelatorioSolicitadoEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Bus\\RelatorioSolicitadoEventConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Bus\\RelatorioSolicitadoEventConsumer.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Bus\\RelatorioSolicitadoEventConsumer.cs",
+              "RelativeToolTip": "RabbitMQ\\Bus\\RelatorioSolicitadoEventConsumer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:50:49.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Extension\\AppExtensions.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Extension\\AppExtensions.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Extension\\AppExtensions.cs",
+              "RelativeToolTip": "RabbitMQ\\Extension\\AppExtensions.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vxYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:02:38.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\docker-compose.yml",
+              "RelativeDocumentMoniker": "RabbitMQ\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\docker-compose.yml",
+              "RelativeToolTip": "RabbitMQ\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-18T13:26:00.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Controllers\\Relatorios\\Lista.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Controllers\\Relatorios\\Lista.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Controllers\\Relatorios\\Lista.cs",
+              "RelativeToolTip": "RabbitMQ\\Controllers\\Relatorios\\Lista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:45:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250818182816_RabbitMQ-Test.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Migrations\\20250818182816_RabbitMQ-Test.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Migrations\\20250818182816_RabbitMQ-Test.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Migrations\\20250818182816_RabbitMQ-Test.cs",
+              "RelativeToolTip": "RabbitMQ\\Migrations\\20250818182816_RabbitMQ-Test.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:28:16.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "RabbitMQ\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "RabbitMQ\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AgIAAI4BAAAAAAAAAADgv54BAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-18T18:53:01.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Program.cs",
+              "RelativeToolTip": "RabbitMQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:14:18.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\appsettings.json",
+              "RelativeDocumentMoniker": "RabbitMQ\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\appsettings.json",
+              "RelativeToolTip": "RabbitMQ\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T17:05:44.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabbitMQ",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ.csproj",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T17:01:18.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RabbitMQ\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:56:20.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRelatorioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\Repositories\\IRelatorioRepository.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Data\\Repositories\\IRelatorioRepository.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\Repositories\\IRelatorioRepository.cs",
+              "RelativeToolTip": "RabbitMQ\\Data\\Repositories\\IRelatorioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:59:28.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RelatorioSolicitadoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Controllers\\Relatorios\\RelatorioSolicitadoEvent.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Controllers\\Relatorios\\RelatorioSolicitadoEvent.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Controllers\\Relatorios\\RelatorioSolicitadoEvent.cs",
+              "RelativeToolTip": "RabbitMQ\\Controllers\\Relatorios\\RelatorioSolicitadoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:41:42.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\IDesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Data\\IDesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\IDesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "RabbitMQ\\Data\\IDesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:19:49.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RabbitMQ\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:58:29.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RelatorioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\Repositories\\RelatorioRepository.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Data\\Repositories\\RelatorioRepository.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Data\\Repositories\\RelatorioRepository.cs",
+              "RelativeToolTip": "RabbitMQ\\Data\\Repositories\\RelatorioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:28:57.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Controllers\\ApiEndpoints.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\Controllers\\ApiEndpoints.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ\\Controllers\\ApiEndpoints.cs",
+              "RelativeToolTip": "RabbitMQ\\Controllers\\ApiEndpoints.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:17:55.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
